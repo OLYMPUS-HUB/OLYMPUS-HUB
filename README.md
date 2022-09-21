@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OLYMPUS-HUB
-- 👀 I’m interested in front-end web development and mobile app developmenr
-- 🌱 I’m currently learning css and frameworks and javascript
+- 👀 I’m interested in front-end web development and mobile app development
+- 🌱 I’m currently learning css and frameworks and javascript and software Engineering
 - 💞️ I’m looking to collaborate on web devs and app dev
 - 📫 How to reach me @sammycares2 on twitter
 
